@@ -1,0 +1,3 @@
+Conectando ao gitHub
+git remote add origin enderecodaoriggem
+git remote remove origin 
