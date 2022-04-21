@@ -1,0 +1,14 @@
+Demonstrados os principais comandos.
+git clone
+git init
+git add. 'arquivo.extensão'
+git status
+git commit -m 'arquivo.extensão'
+git remote add origin httpsjkfsflfsjfl
+git rmeote remove origin
+git push origin master
+git pull origin master
+git config --global user.name "nome"
+git config --global user.email "email"
+git checkout -b nomeDaBranch
+Entrar na branch que vai receber alterações e git merge nomeDaBranchComAlteracoes
